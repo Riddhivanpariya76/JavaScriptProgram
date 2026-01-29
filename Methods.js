@@ -15,7 +15,7 @@
 // // console.log(str)
 // // console.log("length() : ",str.length)
 
-// // let trimText = str.trim();
+// // let trimText = str.trim(); //space remove
 // // console.log("trim() : ",trimText)
 
 // // console.log("toUpperCase() : ",str.toUpperCase())
